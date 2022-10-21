@@ -1,0 +1,96 @@
+*
+{
+	padding:  0;
+	margin:  0;
+	font-family: Trebuchet MS;
+	cursor: pointer;
+}
+
+nav
+{
+	position:  fixed;
+	background-color:  skyblue;
+	height:  190px;
+	width: 100%;
+	z-index:  1;
+}
+
+ul
+{
+	position:  relative;
+	float:  right;
+	margin-right:  20px;
+}
+
+ul li
+{
+	display:  inline-block;
+	line-height:  70px;
+	margin:  0 5px;
+}
+
+.form_deg
+{
+	padding-top: 200px;
+}
+.label_deg
+{
+	display:  inline-block;
+	color: skyblue;
+	width: 100px;
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Trebuchet MS;
+}
+.login_form
+{
+	background-color: skyblue;
+	width: 400px;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.body_deg
+{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: deepskyblue;
+  border: none;
+  color: black;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
